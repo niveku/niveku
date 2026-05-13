@@ -73,7 +73,7 @@ Reference / archived
 | Repo | What it is | Stack |
 |---|---|---|
 | [`lab-python-snippets`](https://github.com/niveku/lab-python-snippets) | Personal Python reference notebooks (collections, JSON, pickle, parquet) | Jupyter |
-| [`lab-numerical-methods-c`](https://github.com/niveku/lab-numerical-methods-c) | Computational methods coursework — Universidad de los Andes (2015) — archived | C |
+| [`lab-computational-methods-coursework`](https://github.com/niveku/lab-computational-methods-coursework) | Computational methods coursework — Universidad de los Andes (2015) — archived | C |
 
 ---
 
