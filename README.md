@@ -49,6 +49,34 @@ Dev         Git · Docker · SonarQube · Postman · DBeaver
 
 ---
 
+## Public repos
+
+Active
+
+| Repo | What it is | Stack |
+|---|---|---|
+| [`web-portfolio`](https://github.com/niveku/web-portfolio) | This portfolio site — projects, blog, engineering notes | Astro · TypeScript |
+| [`app-vienos-dashboard`](https://github.com/niveku/app-vienos-dashboard) | DIMAR oceanographic El Niño monitoring dashboard (Colombia Pacific) | Python · Dash · ArcGIS |
+| [`app-ritual-qr`](https://github.com/niveku/app-ritual-qr) | Duplex fold-and-backlight QR puzzle generator with QA + printer calibration | Python |
+| [`app-housing-simulator`](https://github.com/niveku/app-housing-simulator) | Rent-vs-buy housing scenario simulator with ROI metrics | Python · Streamlit |
+| [`skill-research-first`](https://github.com/niveku/skill-research-first) | Claude Code skill that enforces a research-first workflow before generating code | Claude Code · MCP |
+
+Experimental / WIP
+
+| Repo | What it is | Stack |
+|---|---|---|
+| [`app-multi-bingo`](https://github.com/niveku/app-multi-bingo) | Multi-card bingo tracker for parallel games | Python |
+| [`lab-las-explorer`](https://github.com/niveku/lab-las-explorer) | Notebooks exploring well log `.las` files | Jupyter · Python |
+
+Reference / archived
+
+| Repo | What it is | Stack |
+|---|---|---|
+| [`lab-python-snippets`](https://github.com/niveku/lab-python-snippets) | Personal Python reference notebooks (collections, JSON, pickle, parquet) | Jupyter |
+| [`lab-numerical-methods-c`](https://github.com/niveku/lab-numerical-methods-c) | Computational methods coursework — Universidad de los Andes (2015) — archived | C |
+
+---
+
 ## Publication
 
 📄 **Automating Core Data Integration: Insights from the Volve Field Case Study**  
